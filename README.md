@@ -1,4 +1,4 @@
-# My personal repository of the CAP418 Numerical Methods course
+# My personal repository and course notes
 
 This repository contains my work for this [course at INPE](http://www.inpe.br/posgraduacao/).
 
