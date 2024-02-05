@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Djamel Abdelkader Zighed</title>
+  <id>Calibre2opds:authors:40</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Djamel Abdelkader Zighed" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Discretization of Continuous Features by Resampling</title>
+    <id>calibre:book:44</id>
+    <updated>2023-03-21T01:43:21Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Taimur Qureshi</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Djamel Abdelkader Zighed</name>
+      <uri>../authors_0/authors_40_Page_1.xml</uri>
+    </author>
+    <published>2008-02-01T02:00:00Z</published>
+    <dcterms:publisher>EGC'2008</dcterms:publisher>
+    <category term="Numerical Analysis" />
+    <category term="Bootstrap" />
+    <summary>https://editions-rnti.fr/?inprocid=1000622</summary>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

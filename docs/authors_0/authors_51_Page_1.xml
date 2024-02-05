@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Xuhui Meng</title>
+  <id>Calibre2opds:authors:51</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_51_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Xuhui Meng" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>DeepXDE: A Deep Learning Library for Solving Differential Equations | SIAM Review | Vol. 63, No. 1 | Society for Industrial and Applied Mathematics</title>
+    <id>calibre:book:40</id>
+    <updated>2023-03-19T09:59:41Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Lu Lu</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Xuhui Meng</name>
+      <uri>../authors_0/authors_51_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Zhiping Mao</name>
+      <uri>../authors_0/authors_52_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>George Em Karniadakis</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2021-02-04T03:00:00Z</published>
+    <category term="Education software" />
+    <category term="DeepXDE" />
+    <category term="Differential Equations" />
+    <category term="Deep learning" />
+    <category term="PINN" />
+    <category term="Scientific machine learning" />
+    <summary>SIAM Rev. 2021.63:208-228, , 65-01, 65-04, 65L99, 65M99, 65N99DOI 10.1137/19M1274067</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

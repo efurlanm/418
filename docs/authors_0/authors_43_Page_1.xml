@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>J. Butland</title>
+  <id>Calibre2opds:authors:43</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="J. Butland" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>A Method For Constructing Local Monotone Piecewise Cubic Interpolants</title>
+    <id>calibre:book:45</id>
+    <updated>2023-03-21T02:40:50Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>F. N. Fritsch</name>
+      <uri>../authors_0/authors_42_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>J. Butland</name>
+      <uri>../authors_0/authors_43_Page_1.xml</uri>
+    </author>
+    <published>1984-01-01T03:00:00Z</published>
+    <category term="Numerical Analysis" />
+    <summary>DOI 10.1137/0905021</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Avik Roy</title>
+  <id>Calibre2opds:authors:56</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_56_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Avik Roy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Recipes for when physics fails: recovering robust learning of physics informed neural networks</title>
+    <id>calibre:book:39</id>
+    <updated>2023-03-19T09:31:14Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Chandrajit Bajaj</name>
+      <uri>../authors_0/authors_53_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Luke McLennan</name>
+      <uri>../authors_0/authors_54_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Timothy Andeen</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Avik Roy</name>
+      <uri>../authors_0/authors_56_Page_1.xml</uri>
+    </author>
+    <published>2023-02-02T02:53:00Z</published>
+    <dcterms:publisher>IOP Publishing</dcterms:publisher>
+    <category term="Physics informed deep learning" />
+    <category term="Gaussian Processes" />
+    <category term="nonlinear PDE" />
+    <category term="Robust deep learning" />
+    <summary>Machine Learning: Science and TechnologyDOI 10.1088/2632-2153/acb416</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

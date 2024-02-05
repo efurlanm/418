@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Burgers Equation</title>
+  <id>Calibre2opds:taglist:50</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Burgers Equation" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Augmenting a Physics-Informed Neural Network for the 2D Burgers equation by addition of solution data points</title>
+    <id>calibre:book:38</id>
+    <updated>2023-03-19T09:00:58Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Marlon S. Mathias</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>et al.</name>
+      <uri>../authors_0/authors_28_Page_1.xml</uri>
+    </author>
+    <published>2023-01-18T03:00:00Z</published>
+    <category term="physics-informed neural networks" />
+    <category term="Burgers Equation" />
+    <summary>arXiv 2301.07824v1</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

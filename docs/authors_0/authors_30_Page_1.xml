@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Samuel D. Conte</title>
+  <id>Calibre2opds:authors:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Samuel D. Conte" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Elementary Numerical Analysis: An Algorithmic Approach</title>
+    <id>calibre:book:26</id>
+    <updated>2023-03-19T04:24:25Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Samuel D. Conte</name>
+      <uri>../authors_0/authors_30_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Carl de Boor</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>1980-03-02T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>McGraw-Hill</dcterms:publisher>
+    <category term="Science &amp; Math" />
+    <category term="Mathematics" />
+    <category term="Lang:en" />
+    <summary>ISBN 9780070124479 Elementary Numerical Analysis An Algorithmic Approach. S.D. Conte. Stated 3rd edition copyright 1980, McGraw-Hill, NY. Hardcover in very good condition. Binding is secure, cover and spine are clean with minimal wear. NO writing or ...</summary>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elementary Numerical Analysis: An Algorithmic Approach</title>
+    <id>calibre:book:33</id>
+    <updated>2023-03-19T04:24:46Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Samuel D. Conte</name>
+      <uri>../authors_0/authors_30_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Carl de Boor</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>2017-12-27T02:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>SIAM</dcterms:publisher>
+    <category term="Science" />
+    <category term="Physics" />
+    <category term="Mathematical &amp; Computational" />
+    <category term="Mathematics" />
+    <category term="Numerical Analysis" />
+    <category term="Differential Equations" />
+    <category term="Ordinary" />
+    <category term="Algebra" />
+    <category term="Linear" />
+    <category term="Lang:en" />
+    <summary>ISBN 9781611975192 This book provides a thorough and careful introduction to the theory and practice of scientific computing at an elementary, yet rigorous, level, from theory via examples and algorithms to computer programs. The original FORTRAN pro...</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

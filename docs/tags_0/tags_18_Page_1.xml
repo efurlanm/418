@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Applied</title>
+  <id>Calibre2opds:taglist:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Applied" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Numerical Methods for Engineers and Scientists</title>
+    <id>calibre:book:24</id>
+    <updated>2023-03-19T04:24:18Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Joe D. Hoffman</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Steven Frankel</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2018-10-03T07:28:30Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>CRC Press</dcterms:publisher>
+    <category term="Number Systems" />
+    <category term="Numerical Analysis" />
+    <category term="Differential" />
+    <category term="Analysis" />
+    <category term="Applied" />
+    <category term="Mathematics" />
+    <category term="Calculus" />
+    <category term="Lang:en" />
+    <summary>ISBN 9781482270600 Emphasizing the finite difference approach for solving differential equations, the second edition of Numerical Methods for Engineers and Scientists presents a methodology for systematically constructing individual computer programs...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Numerical Methods in Engineering With Python 3</title>
+    <id>calibre:book:29</id>
+    <updated>2023-03-19T04:24:31Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Jaan Kiusalaas</name>
+      <uri>../authors_0/authors_8_Page_1.xml</uri>
+    </author>
+    <published>2013-01-02T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Programming" />
+    <category term="General" />
+    <category term="Software Development &amp; Engineering" />
+    <category term="Mathematics" />
+    <category term="Applied" />
+    <category term="Numerical Analysis" />
+    <category term="Technology &amp; Engineering" />
+    <category term="Engineering (General)" />
+    <category term="Environmental" />
+    <category term="Lang:en" />
+    <summary>ISBN 9781107033856 Product DescriptionThis book is an introduction to numerical methods for students in engineering. It covers the usual topics found in an engineering course: solution of equations, interpolation and data fitting, solution of differe...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Numerical Recipes: The Art of Scientific Computing [3 ed.]</title>
+    <id>calibre:book:43</id>
+    <updated>2023-03-21T11:57:08Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>William H. Press</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Saul A. Teukolsky</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>William T. Vetterling</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Brian P. Flannery</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2007-09-06T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Mathematical &amp; Statistical Software" />
+    <category term="Mathematics" />
+    <category term="General" />
+    <category term="Applied" />
+    <category term="Numerical Analysis" />
+    <category term="Lang:en" />
+    <summary>ISBN 9780521880688 Co-authored by four leading scientists from academia and industry, Numerical Recipes Third Edition starts with basic mathematics and computer science and proceeds to complete, working routines. Widely recognized as the most compreh...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

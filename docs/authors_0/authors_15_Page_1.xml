@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cláudio Scherer</title>
+  <id>Calibre2opds:authors:15</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cláudio Scherer" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Métodos Computacionais da Física</title>
+    <id>calibre:book:28</id>
+    <updated>2023-03-19T04:24:30Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Cláudio Scherer</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2005-01-02T00:00:00Z</published>
+    <dcterms:language>pt</dcterms:language>
+    <dcterms:publisher>Livraria da Física</dcterms:publisher>
+    <category term="Numerical Analysis" />
+    <category term="Lang:pt" />
+    <summary>ISBN 9788588325357</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

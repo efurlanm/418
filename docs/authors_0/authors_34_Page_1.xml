@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tomos Wyn Roberts</title>
+  <id>Calibre2opds:authors:34</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tomos Wyn Roberts" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Non-oscillatory interpolation for the Semi-Lagrangian scheme</title>
+    <id>calibre:book:41</id>
+    <updated>2023-03-20T05:28:40Z</updated>
+    <link href="data:image/jpg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACQAG8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACimPKsZwQ5/3UJ/kKZ9pT+7L/wB+m/woAmoqH7Sn92X/AL9N/hR9pT+7L/36b/CgCaioftKf3Zf+/Tf4UfaU/uy/9+m/woAmoqH7Sn92X/v03+FH2lP7sv8A36b/AAoAmopqSLICVDDH95Sv86dQAUUUUAFFFFAGbc3uoQXTrHpxuIB91kcA5wOuT9en6Y5ZNq9zCYw2mSjfwu6VBluflGTz0rSeaKM4klRCezMBVS9i0zUYhFdmCaNTuCs4xnpnr70AUTrGowzyCfTQsIfiXzVUBBncxyegHNWYdRvJgc6a8XyMylpAckAY6cc5457GoV0jQE8zbDbASZ3DzOuQQe/uabJo2hTXP2iQRtJ3JmJzyDzz7D8qAJBqt95pVtJdY8qokaZQCScfX0/zjKDVtQeGKVdGnAbllZ1BAx7/AMj79OMwtoPh5pUfy4QUGABMce3ftip10vQ0tRbLHbiEP5gTzOjYIz19zQAW2q3swgLaW+2RgGdJVKoD368gc/l9MyRX2ot5ytphDIjsjeYAHIPyqPc8cn/61V20Tw86lWgtyCQf9Yeo/GtC3axtLdILeSGOJOFUOMCgBlld3c80sdxYvAqE7ZCwIcZ4wOvTBq9TUljlBMbq4HXac06gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooARmVFLMwVR1JOAKNwC7sjGM5pHRZEZGGVYYI9RUCafaRyB0gUMG3A+/rQBP5kZQvvXaOrZ4FKGUjhgfoarjT7RRgQKBgjA9D1pv9mWXH+jpxQBbopAAAAOgpaACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Tomos Wyn Roberts</name>
+      <uri>../authors_0/authors_34_Page_1.xml</uri>
+    </author>
+    <published>2009-08-23T01:12:29Z</published>
+    <category term="Numerical Analysis" />
+    <summary>https://www.reading.ac.uk/maths-and-stats/publications/theses-and-dissertations/mathematics-msc-dissertationshttps://www.reading.ac.uk/maths-and-stats/-/media/project/uor-main/schools-departments/maths/documents/tomos-roberts.pdf</summary>
+    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

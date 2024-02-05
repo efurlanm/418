@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cleve B. Moler</title>
+  <id>Calibre2opds:authors:44</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Cleve B. Moler" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Numerical Computing With MATLAB</title>
+    <id>calibre:book:46</id>
+    <updated>2023-03-21T02:45:38Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>Cleve B. Moler</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2010-08-12T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>SIAM</dcterms:publisher>
+    <category term="Numerical Analysis" />
+    <category term="Computers" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>ISBN 9780898716603  Product DescriptionThis is a lively textbook for an introductory course in numerical methods, MATLAB, and technical computing, which emphasises the informed use of mathematical software. Numerical Computing with MATLAB helps reade...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

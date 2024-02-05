@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mathematical &amp; Statistical Software</title>
+  <id>Calibre2opds:taglist:48</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mathematical &amp; Statistical Software" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="My Personal Calibre Library of Numerical Methods" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Numerical Recipes: The Art of Scientific Computing [3 ed.]</title>
+    <id>calibre:book:43</id>
+    <updated>2023-03-21T11:57:08Z</updated>
+    <link href="data:image/jpg;base64,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" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>William H. Press</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Saul A. Teukolsky</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>William T. Vetterling</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Brian P. Flannery</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2007-09-06T03:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Computers" />
+    <category term="Mathematical &amp; Statistical Software" />
+    <category term="Mathematics" />
+    <category term="General" />
+    <category term="Applied" />
+    <category term="Numerical Analysis" />
+    <category term="Lang:en" />
+    <summary>ISBN 9780521880688 Co-authored by four leading scientists from academia and industry, Numerical Recipes Third Edition starts with basic mathematics and computer science and proceeds to complete, working routines. Widely recognized as the most compreh...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
