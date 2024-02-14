@@ -87,7 +87,7 @@ A geometric method for characterizing the geometric bilateral symmetry breaking 
 
 To organize my references and library I use [Zotero](https://www.zotero.org/) and [Calibre](https://calibre-ebook.com/). In the following link are the main books in [OPDS](https://en.wikipedia.org/wiki/Open_Publication_Distribution_System) and HTML formats, generated from a Calibre library using [calibre2opds](https://wiki.mobileread .com/wiki /Main_Page ) (click on book images for more information):
 
-- <https://efurlanm.github.io/418/docs/index.html>
+- <https://efurlanm.github.io/418/>
 
 And in the following link are all references in BibTeX format generated using Zotero:
 
