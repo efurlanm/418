@@ -1,8 +1,9 @@
 # My personal notes from CAP 418 Numerical Methods I
 
-*Last edited: 2023-06-26*
+*Last edited: 2024-02-20*
 
 This repository contains my work, personal notes and notebook for this course at [INPE](http://www.inpe.br/posgraduacao/) .
+
 
 # Course summary
 
@@ -17,59 +18,62 @@ This repository contains my work, personal notes and notebook for this course at
 - [Fourier series and transform](https://en.wikipedia.org/wiki/Fourier_transform)
 - Notions of [stochastic differential equations](https://en.wikipedia.org/wiki/Stochastic_differential_equation)
 
+
 # Works
 
 The works are in Jupyter Notebook format and use the Python environment. Jupyter Notebooks can be edited and run using [JupyterLab](https://github.com/jupyterlab/jupyterlab-desktop) or [Google Colab](https://colab.research.google.com/), and to run the cells with code in some cases it may be necessary to install additional libraries to the Python environment. For convenience, links (badges) are provided to open the Notebook in Colab.
 
 - Performance comparison of three methods for solving zeros of functions
-  
+
   - [**hands-on-01-bisection.ipynb**](hands-on-01-bisection.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-01-bisection.ipynb) : the bisection method reduces the interval by half, until it becomes small enough. It is not the fastest method to calculate roots, but it is the most reliable, since bisection will always find the root from the given interval
   - [**hands-on-01-secant.ipynb**](hands-on-01-secant.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-01-secant.ipynb) : in the secant method, the function f(x) is assumed to be approximately linear near the root, and then the next estimated value to find the root can be calculated by linear interpolation
   - [**hands-on-01-raphson.ipynb**](hands-on-01-raphson.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-01-raphson.ipynb) : the Newton-Raphson method is simple and fast, but has the disadvantage of needing the derivative 𝑓(𝑥) of the function. This implementation uses the [SymPy](https://www.sympy.org/en/index.html) library to solve the derivatives of functions, and also to find the result of the function, given the value of the variable
   - [**hands-on-01-comparison.ipynb**](hands-on-01-comparison.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-01-comparison.ipynb) : comparison of the 3 previous methods, showing the execution time and the number of iterations
 
 - Laplace transform
-  
+
   - [**hands-on-02-laplace.ipynb**](hands-on-02-laplace.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-02-laplace.ipynb) : is an integral transform that converts a function of a real variable, usually 𝑡 in the time domain, to a function of a complex variable 𝑠 in the complex frequency domain. The implementation uses the Sympy library
 
 - Curve fitting
-  
+
   - [**hands-on-03-ols.ipynb**](hands-on-03-ols.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-03-ols.ipynb) : the least squares method is an approach to regression analysis to bring the solution of equation systems closer, minimizing the sum of the squares of the waste made in the results of each individual equation
   - [**hands-on-03-mlr.ipynb**](hands-on-03-mlr.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-03-mlr.ipynb) : Multiple Linear Regression is a statistical technique that models the linear relationship between explanatory variables (independent) and response variables (dependent). It is an extension of OLS
   - [**hands-on-03-galaxy.ipynb**](hands-on-03-galaxy.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-03-galaxy.ipynb) : investigation of the relationship between the properties of galaxies using the statistical technique of linear regression
 
 - Piecewise Cubic Hermite Interpolating Polynomial (PCHIP)
-  
+
   - [**pchip-quadrature-burgers.ipynb**](pchip-quadrature-burgers.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/pchip-quadrature-burgers.ipynb) : study of the PCHIP interpolation method, using as toy problem the 1D Burgers equation
   - [**pinn-quadrature-burgers.ipynb**](pinn-quadrature-burgers.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/pinn-quadrature-burgers.ipynb) : the idea of this Notebook is to be a complement to the previous one, using PINN as if it were an interpolator. The GHQ is the same used in the previous work, in order to be able to compare the results
   - [**pchip-impl-numpy.ipynb**](pinn-quadrature-burgers.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/pchip-impl-numpy.ipynb) : the idea of this Notebook is to compare the implementation of PCHIP in Python and Numpy, made by Taylor-Virbel, with the implementation of the SciPy library. The points to be interpolated are created using Burkardt's Gauss-Hermite Quadrature (GHQ) model that were generated in Notebook pchip-quadrature-burgers.ipynb
 
 - Number base conversion
-  
+
   - [**hands-on-B01-conv.ipynb**](hands-on-B01-conv.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B01-conv.ipynb) : converting from any base to any base without going through base 10
 
 - System of linear equations
-  
+
   - [**hands-on-B02-system.ipynb**](hands-on-B02-system.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B02-system.ipynb) : solution of a system of linear equations by the method of gaussian elimination
 
 - Interpolation
-  
+
   - [**hands-on-B03-interpol.ipynb**](hands-on-B03-interp.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B03-interp.ipynb) : approximation of a function using some methods of polynomial interpolation, linear systems, and Lagrange's formula
 
 - ODE solving
-  
+
   - [**hands-on-B04-euler.ipynb**](hands-on-B04-euler.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B04-euler.ipynb) : Euler's method, a numerical method for approximating solutions of first-order Initial Value Problems (IVP) used to solve ordinary differential equations (ODEs) with a given initial value
   - [**hands-on-B04-picard.ipynb**](hands-on-B04-picard.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B04-picard.ipynb) : the Picard's method generates a sequence of increasingly precise algebraic approximations of the specific exact solution of the first-order differential equation with initial value
 
 - 2D Burgers equation
-  
+
   - [**burgers-2d.ipynb**](burgers-2d.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/burgers-2d.ipynb) : [Bateman–Burgers equation](https://en.wikipedia.org/wiki/Burgers%27_equation) is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow
+
 
 # Directories in this repo
 
 - **KiusalaasSourceCode** : original code downloaded from the book website [KIUSALAAS, 2013]
-- **NotebooksFromKiusalaas** : Jupyter Notebooks based on [KIUSALAAS, 2013]
+- **KiusalaasNotebooks** : Jupyter Notebooks based on [KIUSALAAS, 2013]
 - **FMCarlos** : CARLOS, F. M. Exercise List. Computational Mathematics CAP-239. Numerical base conversion, linear systems, polynomial interpolation, numerical integration, numerical solution of differential equations. (in Portuguese)
+
 
 # Gradient Pattern Analysis (GPA)
 
@@ -83,6 +87,7 @@ A geometric method for characterizing the geometric bilateral symmetry breaking 
 - RUBENS. Gradient Pattern Analysis. [S. l.: s. n.], 14 Dec. 2022. Available at: <https://github.com/rsautter/GPA>. Accessed on: 4 Apr. 2023.
 - SAUTER, R. A.; et al. Gradient Pattern Analysis of the Solar Active Region NOAA 11131. Presentation at WorCAP 2022. Available at: <https://youtu.be/AlXNYKDpMec?t=7090> (in Portuguese).
 
+
 # References
 
 To organize my references and library I use [Zotero](https://www.zotero.org/) and [Calibre](https://calibre-ebook.com/). In the following link are the main books in [OPDS](https://en.wikipedia.org/wiki/Open_Publication_Distribution_System) and HTML formats, generated from a Calibre library using [calibre2opds](https://wiki.mobileread .com/wiki /Main_Page ) (click on book images for more information):
@@ -92,6 +97,7 @@ To organize my references and library I use [Zotero](https://www.zotero.org/) an
 And in the following link are all references in BibTeX format generated using Zotero:
 
 - <https://github.com/efurlanm/418/blob/master/library.lib>
+
 
 # Links of interest
 
@@ -119,11 +125,13 @@ And in the following link are all references in BibTeX format generated using Zo
 - MatwWorks. [Piecewise Cubic Hermite Interpolating Polynomial (PCHIP)](https://www.mathworks.com/help/matlab/ref/pchip.html)
 - SciPy. [PCHIP 1-D monotonic cubic interpolation](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.PchipInterpolator.html#scipy.interpolate.PchipInterpolator)
 
+
 # JupyterLab
 
 There are some ways to view or edit the IPYNB (Jupyter Notebook) files, offline. One way is using the JupyterLab app:
 
 <https://www.youtube.com/results?search_query=jupyterlab+desktop>
+
 
 # Special mention
 
