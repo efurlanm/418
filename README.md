@@ -1,4 +1,4 @@
-# My personal notes from CAP 418 Numerical Methods I
+# My personal notes from Numerical Methods I (CAP 418)
 
 *Last edited: 2024-02-20*
 
