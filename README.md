@@ -65,7 +65,7 @@ The works are in Jupyter Notebook format and use the Python environment. Jupyter
 
 - 2D Burgers equation
 
-  - [**burgers-2d.ipynb**](burgers-2d.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/burgers-2d.ipynb) : [Bateman–Burgers equation](https://en.wikipedia.org/wiki/Burgers%27_equation) is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow
+  - [**burgers-2d-sympy.ipynb**](burgers-2d-sympy.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/burgers-2d-sympy.ipynb) : [Bateman–Burgers equation](https://en.wikipedia.org/wiki/Burgers%27_equation) is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow
 
 
 # Directories in this repo
