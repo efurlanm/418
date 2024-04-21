@@ -63,7 +63,7 @@ The works are in Jupyter Notebook format and use the Python environment. Jupyter
   - [**hands-on-B04-euler.ipynb**](hands-on-B04-euler.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B04-euler.ipynb) : Euler's method, a numerical method for approximating solutions of first-order Initial Value Problems (IVP) used to solve ordinary differential equations (ODEs) with a given initial value
   - [**hands-on-B04-picard.ipynb**](hands-on-B04-picard.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/hands-on-B04-picard.ipynb) : the Picard's method generates a sequence of increasingly precise algebraic approximations of the specific exact solution of the first-order differential equation with initial value
 
-- 2D Burgers equation
+- 2D Burgers equation - finite difference method
 
   - [**burgers-2d-sympy.ipynb**](burgers-2d-sympy.ipynb) [![Open In Colab](img/colab-badge.svg)](https://colab.research.google.com/github/efurlanm/418/blob/master/burgers-2d-sympy.ipynb) : [Bateman–Burgers equation](https://en.wikipedia.org/wiki/Burgers%27_equation) is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow
 
@@ -137,6 +137,6 @@ There are some ways to view or edit the IPYNB (Jupyter Notebook) files, offline.
 
 ![](img/merzbach.jpg)
 
-Boyer, C. B., & Merzbach, U. C. (2011). A History of Mathematics (Vol. 1). John Wiley & Sons.
+Boyer, C. B., & Merzbach, U. C. (2011). [A History of Mathematics](https://books.google.com.br/books?id=bR9HAAAAQBAJ) (Vol. 1). John Wiley & Sons.
 
 The book is a very interesting chronicle of the thousands of years of history of mathematics, from the Greeks to Gödel, and traces the development of European mathematics and the contributions of Chinese, Indian, and Arab civilizations. It is worth reading.
