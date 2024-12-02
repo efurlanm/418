@@ -1,8 +1,9 @@
-# My personal notes from Numerical Methods I (CAP 418)
+# Numerical Methods I (CAP 418)
 
 *Last edited: 2024-04-20*
 
-This repository contains my work, personal notes and notebook for this course at [INPE](http://www.inpe.br/posgraduacao/) .
+My personal notes from the course and assignments.
+
 
 ## Course summary
 
